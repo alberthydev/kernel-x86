@@ -1,4 +1,3 @@
-# os-kernel
-## Simple Kernel x86_64
+# Simple Kernel x86_64
 
 ### This just print "Hello on screen"
